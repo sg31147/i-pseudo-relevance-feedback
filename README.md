@@ -10,7 +10,7 @@ This paper is publicly available in the JCSSE proceedings.
   year      = {2025},
   address   = {Chiang Mai, Thailand},
   publisher = {IEEE},
-  isbn      = {979-8-3315-7358-4},
+  isbn      = {xxx-x-xxxx-xxxx-x},
   doi       = {xxxx.xxxx/xxxxx}
 }
 ```
