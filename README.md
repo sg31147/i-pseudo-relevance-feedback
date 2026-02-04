@@ -109,8 +109,8 @@ pip install -e .
       Skip the above steps by downloading the prepared output from my public site.
   
       Place the files in:
-      - ./file/*  [downloading](https://drive.google.com/file/d/1_551qOn7oPwLAvY3CcLWhxQCdmu0KxA0/view?usp=sharing)
-      - ./experiment/*  [downloading](https://drive.google.com/file/d/1KihtLzPtCVNY-XcEmtLUL0i-uYacG5HR/view?usp=sharing)
+      - ./file/*  [downloading](https://drive.google.com/file/d/1KihtLzPtCVNY-XcEmtLUL0i-uYacG5HR/view?usp=sharing)
+      - ./experiment/*  [downloading](https://drive.google.com/file/d/1_551qOn7oPwLAvY3CcLWhxQCdmu0KxA0/view?usp=sharing)
 
 **Web Application Playground**
 
